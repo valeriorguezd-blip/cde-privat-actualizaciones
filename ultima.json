@@ -1,9 +1,9 @@
 {
-  "version": "0.8.1",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.8.1/CDE_Privat_Setup_0.8.1.exe",
-  "sha256": "2d975d172aefea9774af153888cf483572439c720d7c2a8664b9fb75cb9b273a",
-  "bytes": 33333897,
-  "notas": "Menciones en los comentarios (avisan por correo), comentarios abiertos y resueltos, y bloque de Conversaciones en Inicio.",
-  "fecha": "2026-11-11T21:09:09+00:00",
-  "firma": "fiAKFMg9mCH+rRMk7lTCa/TzdJZscz/XmE99EdQulf3H4ECua8l4NNMOHeguPcYI0rKv1WevbnUqtPDPdUkIBA=="
+  "version": "0.8.2",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.8.2/CDE_Privat_Setup_0.8.2.exe",
+  "sha256": "67ea717408974c4672f91c110a1c57bc36d21533d3780b6842777008acf6eafd",
+  "bytes": 33336035,
+  "notas": "Corrige «Actualizar ahora», que cerraba el programa sin instalar. Incluye las menciones en comentarios, comentarios resueltos y Conversaciones en Inicio.",
+  "fecha": "2026-11-11T21:18:58+00:00",
+  "firma": "mzbrnD7GDN2z87/IgC27kC0Qo6prSUybWhQy8ctBTdyZ0yN8zeKWMetA4+L9PiT4y8a595pAfAw8rDVkyTm7Cg=="
 }
