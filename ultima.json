@@ -1,9 +1,9 @@
 {
-  "version": "0.8.2",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.8.2/CDE_Privat_Setup_0.8.2.exe",
-  "sha256": "67ea717408974c4672f91c110a1c57bc36d21533d3780b6842777008acf6eafd",
-  "bytes": 33336035,
-  "notas": "Corrige «Actualizar ahora», que cerraba el programa sin instalar. Incluye las menciones en comentarios, comentarios resueltos y Conversaciones en Inicio.",
-  "fecha": "2026-11-11T21:18:58+00:00",
-  "firma": "mzbrnD7GDN2z87/IgC27kC0Qo6prSUybWhQy8ctBTdyZ0yN8zeKWMetA4+L9PiT4y8a595pAfAw8rDVkyTm7Cg=="
+  "version": "0.8.3",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.8.3/CDE_Privat_Setup_0.8.3.exe",
+  "sha256": "9b318c6d4c151c4e54cb39a69b1049b3299098365da09e098b8ff10ee7f8bab4",
+  "bytes": 33337726,
+  "notas": "Arreglado el arranque automático al encender Windows. Si ya lo tenías activado, entra en Ajustes y pulsa «Reparar arranque automático».",
+  "fecha": "2026-11-12T13:11:18+00:00",
+  "firma": "4tLkRtjnhEx2YoWdGIuA7iO5l21gwVCqkqI0hnLedEy8zPB4Tk+bepEIe+UOoGi8fuMrT4snmpY8yMXc63/DDg=="
 }
