@@ -1,9 +1,9 @@
 {
-  "version": "0.8.3",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.8.3/CDE_Privat_Setup_0.8.3.exe",
-  "sha256": "9b318c6d4c151c4e54cb39a69b1049b3299098365da09e098b8ff10ee7f8bab4",
-  "bytes": 33337726,
-  "notas": "Arreglado el arranque automático al encender Windows. Si ya lo tenías activado, entra en Ajustes y pulsa «Reparar arranque automático».",
-  "fecha": "2026-11-12T13:11:18+00:00",
-  "firma": "4tLkRtjnhEx2YoWdGIuA7iO5l21gwVCqkqI0hnLedEy8zPB4Tk+bepEIe+UOoGi8fuMrT4snmpY8yMXc63/DDg=="
+  "version": "0.8.4",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.8.4/CDE_Privat_Setup_0.8.4.exe",
+  "sha256": "5bde69173f57a7726fce3de804a0901d3f6c0a7dae42e11ecf2325c8c1cf0d99",
+  "bytes": 33359580,
+  "notas": "Nuevo icono junto al reloj: verde si CDE Privat funciona, rojo si no. Al iniciar sesión se abre la ventana sola.",
+  "fecha": "2026-11-12T13:51:45+00:00",
+  "firma": "/AoarycRu+fuacvBvo66HatRciy8X9PMiaov+NKC2iIGbT2krPLUTofBfqJgAkyICzfVYI1+NRMdru+1lo0xBw=="
 }
