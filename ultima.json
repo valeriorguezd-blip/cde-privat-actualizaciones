@@ -1,9 +1,9 @@
 {
-  "version": "0.8.4",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.8.4/CDE_Privat_Setup_0.8.4.exe",
-  "sha256": "5bde69173f57a7726fce3de804a0901d3f6c0a7dae42e11ecf2325c8c1cf0d99",
-  "bytes": 33359580,
-  "notas": "Nuevo icono junto al reloj: verde si CDE Privat funciona, rojo si no. Al iniciar sesión se abre la ventana sola.",
-  "fecha": "2026-11-12T13:51:45+00:00",
-  "firma": "/AoarycRu+fuacvBvo66HatRciy8X9PMiaov+NKC2iIGbT2krPLUTofBfqJgAkyICzfVYI1+NRMdru+1lo0xBw=="
+  "version": "0.9.0",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.9.0/CDE_Privat_Setup_0.9.0.exe",
+  "sha256": "cb29c5fb8ffb606571f7c3f281e9a69cb0908ac7700ba7aaf06536a52e53ff83",
+  "bytes": 33414834,
+  "notas": "Novedades: incidencias BCF con vista 3D, plan de entregas (MIDP/TIDP), panel del proyecto, visor con varios modelos, cortes y medición, y Ver 3D para los .rvt con su IFC.",
+  "fecha": "2026-11-13T22:46:38+00:00",
+  "firma": "8MHPxx2gyJ1qXBjqQxUUV0LI01jR4wHy9fPSwIjkmxUpkB/Z95v7a6R3iGQgjhA7rsL21kHeYs05S9GM5D+3BA=="
 }
