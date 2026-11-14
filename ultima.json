@@ -1,9 +1,9 @@
 {
-  "version": "0.15.1",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.15.1/CDE_Privat_Setup_0.15.1.exe",
-  "sha256": "43f0083d453129c93178558df0cad081284adb626f8468e5f07eb13e24123e67",
-  "bytes": 24918878,
-  "notas": "Al volver a conectar un PC se quitan solos los permisos viejos; la sincronización y Revit toman la conexión nueva sin reiniciar; el complemento de Revit se pone al día en cuanto cierras Revit.",
-  "fecha": "2026-11-14T16:48:58+00:00",
-  "firma": "QOGWCK4kdnsfDbKZ50YAStSjNQIEGpEF8mDiBvqSGiCUvotIAp+iTD22kbt2gVx01EHpxlhyzHmXmmgTC941Dg=="
+  "version": "0.15.2",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.15.2/CDE_Privat_Setup_0.15.2.exe",
+  "sha256": "734c56192618cd9aa0a2193c86f824493ecc6100c001bcd7b0343e134dc0dfed",
+  "bytes": 24927039,
+  "notas": "Arreglado: el complemento de Revit decía «Revit abierto» con Revit cerrado. Ahora se comprueba si Revit tiene el complemento cargado de verdad.",
+  "fecha": "2026-11-14T17:04:43+00:00",
+  "firma": "mLIxkcGtcvR5xWGzbDTXMut4HgC87QCkSfWSQ09sCQOIZdaJMC0fVxTiLFeC2+vX9XZK203l92ksQgNYRvLEDw=="
 }
