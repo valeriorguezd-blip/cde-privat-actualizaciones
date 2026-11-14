@@ -1,9 +1,9 @@
 {
-  "version": "0.15.2",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.15.2/CDE_Privat_Setup_0.15.2.exe",
-  "sha256": "734c56192618cd9aa0a2193c86f824493ecc6100c001bcd7b0343e134dc0dfed",
-  "bytes": 24927039,
-  "notas": "Arreglado: el complemento de Revit decía «Revit abierto» con Revit cerrado. Ahora se comprueba si Revit tiene el complemento cargado de verdad.",
-  "fecha": "2026-11-14T17:04:43+00:00",
-  "firma": "mLIxkcGtcvR5xWGzbDTXMut4HgC87QCkSfWSQ09sCQOIZdaJMC0fVxTiLFeC2+vX9XZK203l92ksQgNYRvLEDw=="
+  "version": "0.15.3",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.15.3/CDE_Privat_Setup_0.15.3.exe",
+  "sha256": "3c8ee75c45ae9b8d1273a27174265fa25d99f2e7370ec562ff98fe54f7de9c03",
+  "bytes": 24927233,
+  "notas": "La sincronización aguanta cortes de red con archivos grandes (sigue desde donde iba). En el servidor, Sync usa la dirección del propio PC. Los avisos ya no quedan detrás del asistente.",
+  "fecha": "2026-11-14T17:31:56+00:00",
+  "firma": "O20AThsfDHudadsVGI1fMWn+iNGjZGBVCt3Otqj6Y15/FcKZALZluZ04tBeCQGl4lQOaAL7M9iR8ruWQ8wnEAw=="
 }
