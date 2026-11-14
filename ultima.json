@@ -1,9 +1,9 @@
 {
-  "version": "0.11.1",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.11.1/CDE_Privat_Setup_0.11.1.exe",
-  "sha256": "06efafd258b79086021e96283ff955c40f83d76fe74e35baabc8367783694375",
-  "bytes": 35035234,
-  "notas": "Complemento de Revit probado en Revit 2026: Conectar y Abrir sin modelo abierto, panel de incidencias más cómodo y aviso claro en modo visor.",
-  "fecha": "2026-11-14T13:23:34+00:00",
-  "firma": "7Lddp6j1Jd95v32Tkg1rIexQGJ8nMhJL60Aptn+LYO9rTKEC25OioXIZLCy09dudanw8ooCC1BAJXF+fypkKAw=="
+  "version": "0.12.0",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.12.0/CDE_Privat_Setup_0.12.0.exe",
+  "sha256": "98747ebb8ba674ccb3a152653e1b5ffafc43112e307de58f767e8535c367162b",
+  "bytes": 35063385,
+  "notas": "Nuevo botón Asistente: pregúntale cómo se hace algo (sin internet) y te recuerda lo que falta por configurar. Asistente de instalación para el gestor.",
+  "fecha": "2026-11-14T13:58:11+00:00",
+  "firma": "c40y+WE1S4k9pQE2gVF/yFpsVOxUJKGe+wmdUdRN1olUzKr7ZVLo+ObeTEbjnR8rjD3MMPM7027EszPqOWA5Bg=="
 }
