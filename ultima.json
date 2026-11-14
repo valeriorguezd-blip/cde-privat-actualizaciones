@@ -1,9 +1,9 @@
 {
-  "version": "0.15.0",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.15.0/CDE_Privat_Setup_0.15.0.exe",
-  "sha256": "3cd29c333c938f650c44f69e5a82efce944d2b6a09b9313aa0ceb68ccbef21ca",
-  "bytes": 24919260,
-  "notas": "Funciona dentro y fuera de la oficina: el gestor fija las direcciones del servidor (oficina, Tailscale, pública) y cada PC usa la que responda. Botón «Conectar este PC» en Mi cuenta: configura el programa, la sincronización y Revit sin escribir nada.",
-  "fecha": "2026-11-14T16:22:55+00:00",
-  "firma": "JO00WqB+tp16b2yC4PZgwfT4Vhr2eACvbl0Pk4AJxu1DjjDigqMOFfc9dmasX6QFCThBVpwhwYFcV36TQEu0DQ=="
+  "version": "0.15.1",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.15.1/CDE_Privat_Setup_0.15.1.exe",
+  "sha256": "43f0083d453129c93178558df0cad081284adb626f8468e5f07eb13e24123e67",
+  "bytes": 24918878,
+  "notas": "Al volver a conectar un PC se quitan solos los permisos viejos; la sincronización y Revit toman la conexión nueva sin reiniciar; el complemento de Revit se pone al día en cuanto cierras Revit.",
+  "fecha": "2026-11-14T16:48:58+00:00",
+  "firma": "QOGWCK4kdnsfDbKZ50YAStSjNQIEGpEF8mDiBvqSGiCUvotIAp+iTD22kbt2gVx01EHpxlhyzHmXmmgTC941Dg=="
 }
