@@ -1,9 +1,9 @@
 {
-  "version": "0.10.0",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.10.0/CDE_Privat_Setup_0.10.0.exe",
-  "sha256": "bf6db00fd67578909dc127115997e52bd25e941957cfabd3d241d627e474742c",
-  "bytes": 33519551,
-  "notas": "Planes de licencia, elegir el disco de los datos, plantillas de proyecto, filtros en Actividad, Sync con icono junto al reloj y elección de proyectos, imagen para NAS.",
-  "fecha": "2026-11-14T09:50:08+00:00",
-  "firma": "YejriIgrm7abA2BhaYIRQK+mOXWZnkhBeA+aOaKUzTcStfH/7ChaL5sSILFzRA/kp8OEkii8iu/kSvEkkOYUCA=="
+  "version": "0.11.0",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.11.0/CDE_Privat_Setup_0.11.0.exe",
+  "sha256": "3b16f25b662cff2e33764f9f063ea11481a7107164e9df95216ac09c257510e3",
+  "bytes": 35036048,
+  "notas": "Complemento de CDE Privat para Revit 2023-2026: abrir y subir modelos (con su IFC) desde Revit e incidencias BCF sobre el modelo. Se descarga en Mi cuenta.",
+  "fecha": "2026-11-14T10:51:22+00:00",
+  "firma": "ZbQhjQpp44Y8/jOD9D035bYaKwEh/TG/8lCABfsXT6tAFhns0XMs23pIuqVY3HX8Fn8358izc62fEXVpkPD3Dw=="
 }
