@@ -1,9 +1,9 @@
 {
-  "version": "0.12.1",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.12.1/CDE_Privat_Setup_0.12.1.exe",
-  "sha256": "3620b0d9e25e336c424cb108edde3e1ed02615bec1c82959606b06f092e44374",
-  "bytes": 35065105,
-  "notas": "Arreglos tras probar en Windows: el panel de incidencias de Revit conserva el detalle al comentar y se desplaza con la rueda; el asistente sube la pantalla al ir a otra sección.",
-  "fecha": "2026-11-14T14:35:55+00:00",
-  "firma": "qEdgMyvUvm6P1v5Ia+SuHZcyVoYYGa55vvPMFj7/2cYZ65hZJ5Mf0r7JpY+VUFb2vq2aF8VHRj3xUMKdzMcmBg=="
+  "version": "0.13.0",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.13.0/CDE_Privat_Setup_0.13.0.exe",
+  "sha256": "62348c035ea2d5feb77a51c719d47925105b19fd7e9c11ea2c6244e66c81e889",
+  "bytes": 35080671,
+  "notas": "Botón «Sincronizar con Revit» en CDE Privat y en Revit: Sync en segundo plano, arranca con Windows y avisa en Revit y en CDE Privat si se pierde la sincronización.",
+  "fecha": "2026-11-14T15:12:49+00:00",
+  "firma": "sigPmInBgoLLdA2E4z/TRD9axui6z0ktf59SS28wsGuvLnM8kidIMzIrjOJP0ubF1ReEx6BVe4pau6s1T3z5BA=="
 }
