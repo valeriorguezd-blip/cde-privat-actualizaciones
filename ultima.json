@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v1.0.0/CDE_Privat_Setup_1.0.0.exe",
-  "sha256": "b5e6b5deb894bd52e0d4ab353813a37ae53907c4476f991decf469bb4c5f43d9",
-  "bytes": 24936663,
-  "notas": "CDE Privat 1.0: compra de la licencia en línea con activación por código, renovación automática y actualizaciones incluidas mientras la licencia esté en vigor. Prueba completa de 30 días.",
-  "fecha": "2026-11-14T19:13:00+00:00",
-  "firma": "PWhhZEQB+/rsG4rDzzP+drNfnxasMDCIhadqxWJKZAJyKsPHq1U5MSMD5QZhYzrkRQZGCyXSV/Soi5UJ0z9EAA=="
+  "version": "1.1.0",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v1.1.0/CDE_Privat_Setup_1.1.0.exe",
+  "sha256": "2f1651aaf354b0883fe89d017fa1bf9096e5fcfdfeb76102adfef4e3eb17be73",
+  "bytes": 24950051,
+  "notas": "El cliente (promotor o propiedad) puede tener cuenta y solo ve, en Recibido, lo publicado que el gestor le remite, en la revisión exacta. Añadir organizaciones a un proyecto ya creado.",
+  "fecha": "2026-11-14T20:09:11+00:00",
+  "firma": "9tAwbCdOVUYGb7tDjrI245ifKim3xjk0/4xa+Q4Lf6CVEDWRt3XvR7oi/akmtzhX4/HsJQP899M4bJlibNqFDg=="
 }
