@@ -1,9 +1,9 @@
 {
-  "version": "0.13.1",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.13.1/CDE_Privat_Setup_0.13.1.exe",
-  "sha256": "9deaf43867ba10b4fd45cd6a870f5e5f4717d26d25922fcbf5392c9661bae9b1",
-  "bytes": 35078558,
-  "notas": "Botón «Sincronizar con Revit» en CDE Privat y en Revit, Sync en segundo plano y avisos si se pierde la sincronización. La actualización ya no se atasca si CDE Privat Sync está abierto.",
-  "fecha": "2026-11-14T15:23:42+00:00",
-  "firma": "kjRj5ccejOZ4kxWBtUFZ5clHvvQKn4cHYhBDnDb8URagr/qPAlZ6ooduMZq9Xy0kTRzrjRwkAmWVLig8vsCuDg=="
+  "version": "0.14.0",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.14.0/CDE_Privat_Setup_0.14.0.exe",
+  "sha256": "71704ebfb610393d3650cc3e151a7ae22627b879086d13854a76cde603b044f4",
+  "bytes": 24898950,
+  "notas": "Un solo programa: la sincronización de carpetas y el complemento de Revit van dentro de CDE Privat y se instalan con un clic desde «Este equipo» (asistente o Mi cuenta), sin contraseña. Botón «Sincronizar con Revit» y avisos si se pierde la sincronización.",
+  "fecha": "2026-11-14T15:40:56+00:00",
+  "firma": "ZFL7YFFqrnOhRclWinMf7+yJJ3D9k0wB+pgcWiKmuraKD/oYqcS5YPsvdz1U1mE74MiVgY5czXOn3GIEoHhtCg=="
 }
