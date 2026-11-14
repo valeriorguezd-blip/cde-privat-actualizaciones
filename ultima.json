@@ -1,9 +1,9 @@
 {
-  "version": "0.12.0",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.12.0/CDE_Privat_Setup_0.12.0.exe",
-  "sha256": "98747ebb8ba674ccb3a152653e1b5ffafc43112e307de58f767e8535c367162b",
-  "bytes": 35063385,
-  "notas": "Nuevo botón Asistente: pregúntale cómo se hace algo (sin internet) y te recuerda lo que falta por configurar. Asistente de instalación para el gestor.",
-  "fecha": "2026-11-14T13:58:11+00:00",
-  "firma": "c40y+WE1S4k9pQE2gVF/yFpsVOxUJKGe+wmdUdRN1olUzKr7ZVLo+ObeTEbjnR8rjD3MMPM7027EszPqOWA5Bg=="
+  "version": "0.12.1",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v0.12.1/CDE_Privat_Setup_0.12.1.exe",
+  "sha256": "3620b0d9e25e336c424cb108edde3e1ed02615bec1c82959606b06f092e44374",
+  "bytes": 35065105,
+  "notas": "Arreglos tras probar en Windows: el panel de incidencias de Revit conserva el detalle al comentar y se desplaza con la rueda; el asistente sube la pantalla al ir a otra sección.",
+  "fecha": "2026-11-14T14:35:55+00:00",
+  "firma": "qEdgMyvUvm6P1v5Ia+SuHZcyVoYYGa55vvPMFj7/2cYZ65hZJ5Mf0r7JpY+VUFb2vq2aF8VHRj3xUMKdzMcmBg=="
 }
