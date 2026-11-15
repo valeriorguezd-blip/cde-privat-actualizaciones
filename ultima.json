@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v1.1.0/CDE_Privat_Setup_1.1.0.exe",
-  "sha256": "2f1651aaf354b0883fe89d017fa1bf9096e5fcfdfeb76102adfef4e3eb17be73",
-  "bytes": 24950051,
-  "notas": "El cliente (promotor o propiedad) puede tener cuenta y solo ve, en Recibido, lo publicado que el gestor le remite, en la revisión exacta. Añadir organizaciones a un proyecto ya creado.",
-  "fecha": "2026-11-14T20:09:11+00:00",
-  "firma": "9tAwbCdOVUYGb7tDjrI245ifKim3xjk0/4xa+Q4Lf6CVEDWRt3XvR7oi/akmtzhX4/HsJQP899M4bJlibNqFDg=="
+  "version": "1.1.1",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v1.1.1/CDE_Privat_Setup_1.1.1.exe",
+  "sha256": "a3c8a53513b8bba0594a2a00fce1216f2c83352d808a73c9f26d47943f7ff8a0",
+  "bytes": 24953098,
+  "notas": "La web se pone al día sola: los proyectos nuevos, los archivos, las incidencias y la actividad aparecen sin pulsar F5, también si los crea otra persona o tú desde el móvil.",
+  "fecha": "2026-11-15T15:49:40+00:00",
+  "firma": "N2mWBoIwJMwiVWhz+jepshsBnScjvWSUEUNo6WmLF+BTtbL4GdfCun/JUbosNvnHlZb6TzbXUXrfYMWZb8HHAw=="
 }
