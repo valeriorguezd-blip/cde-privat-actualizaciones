@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v1.1.1/CDE_Privat_Setup_1.1.1.exe",
-  "sha256": "a3c8a53513b8bba0594a2a00fce1216f2c83352d808a73c9f26d47943f7ff8a0",
-  "bytes": 24953098,
-  "notas": "La web se pone al día sola: los proyectos nuevos, los archivos, las incidencias y la actividad aparecen sin pulsar F5, también si los crea otra persona o tú desde el móvil.",
-  "fecha": "2026-11-15T15:49:40+00:00",
-  "firma": "N2mWBoIwJMwiVWhz+jepshsBnScjvWSUEUNo6WmLF+BTtbL4GdfCun/JUbosNvnHlZb6TzbXUXrfYMWZb8HHAw=="
+  "version": "1.1.2",
+  "url": "https://github.com/valeriorguezd-blip/cde-privat-actualizaciones/releases/download/v1.1.2/CDE_Privat_Setup_1.1.2.exe",
+  "sha256": "3e401a8dbc01100a069425fb85d0128bf49ebd46c1ef6872f3efb35e9409aa95",
+  "bytes": 24949034,
+  "notas": "Desde fuera de la oficina, el instalador de CDE Privat se descarga de los servidores de descargas (mucho más rápido); en la oficina sigue saliendo del propio servidor.",
+  "fecha": "2026-11-16T21:17:11+00:00",
+  "firma": "QN6k71ORHvfZfwnuqwbltwE0PAXp+30jO89DPW2gkVNkSAHmD407d/Mp1XYI1axdWVX+atUVPFa1CTeAZ/KICA=="
 }
